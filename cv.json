@@ -1,47 +1,42 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Greg Goh",
+    "label": "Full Stack Web Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "gohliang@gmail.com",
+    "phone": "+44 7474 270816",
+    "url": "https://greggoh.com",
+    "summary": "Full stack web developer and culture leader, experienced in financial and video game industries. Currently seeking opportunities that encourage collaboration and discovery. Malaysian citizen open to relocation, but will require work visa sponsorship.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "L2 2AA",
+      "city": "Liverpool",
+      "countryCode": "UK",
+      "region": "England"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "gohliang",
+        "url": "https://www.linkedin.com/in/gohliang/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "ShinyTeeth",
+        "url": "https://github.com/ShinyTeeth"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Sony Interactive Entertainment Europe",
+      "position": "Senior Tools Engineer",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
+      "location": "Liverpool, Merseyside, England",
+      "url": "https://sonyinteractive.com/en/",
+      "startDate": "2023-03-27",
+      "endDate": "2024-06-30",
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
@@ -61,13 +56,13 @@
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "Goldman Sachs",
+      "position": "Full Stack Engineer (Associate)",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "location": "Birmingham, West Midlands, England",
+      "url": "https://www.goldmansachs.com/",
+      "startDate": "2022-01-24",
+      "endDate": "2023-03-23",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
@@ -88,12 +83,40 @@
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "name": "Goldman Sachs",
+      "position": "Full Stack Engineer (Analyst)",
+      "location_type": "Hybrid",
+      "location": "Saratoga Springs, NY, USA",
+      "url": "https://www.ayco.com/homepage.html",
+      "startDate": "2019-02-25",
+      "endDate": "2022-01-23",
+      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Developed and maintained backend services using Python and Django.",
+        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+      ],
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": [
+        "Python",
+        "Django",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "name": "Mandiant (previously FireEye)",
+      "position": "Software Engineer Intern",
+      "location_type": "On-site",
+      "location": "Reston, VA, USA",
+      "url": "https://www.mandiant.com/",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-31",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
@@ -104,68 +127,18 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Rochester Institute of Technology",
+      "url": "https://www.rit.edu/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "startDate": "2014-08-25",
+      "endDate": "2018-12-21",
+      "score": "3.64"
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
+  "certificates": [],
   "skills": [
     {
       "name": "Figma",
@@ -298,23 +271,12 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "Mandarin",
       "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "language": "Malay",
+      "fluency": "Intermediate"
     }
   ],
   "projects": [
