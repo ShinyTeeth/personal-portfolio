@@ -60,7 +60,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 
 <footer id="normal-footer" class="no-print flex flex-col gap-2">
 	<div>
-		Press <kbd>Cmd</kbd> + <kbd>K</kbd> to open the command palette.
+		Press <kbd>Cmd / Ctrl</kbd> + <kbd>K</kbd> to open the command palette.
 	</div>
 </footer>
 
@@ -191,7 +191,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 		animation-range: entry 100% cover 10%;
 	}
 	kbd {
-		@apply bg-skin-muted;
+		@apply bg-skin-muted font-sans;
 		border-radius: 4px;
 		padding: 2px 4px;
 		font-size: 12px;
@@ -200,7 +200,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 		--hotkeypad-bg-kbd: rgb(var(--muted));
 		--hotkeypad-bg-backdrop: rgb(var(--color-fill));
 		--hotkeypad-bg-container: rgb(var(--color-fill));
-		--hotkeypad-bg-item-hover: rgba(var(--color-text), 20%);
+		--hotkeypad-bg-item-hover: rgba(var(--color-text-base), 20%);
 		--hotkeypad-border-container: rgb(var(--muted));
 		--hotkeypad-border-container-hover: rgb(var(--color-fill));
 		--hotkeypad-fg-muted: rgb(var(--muted));

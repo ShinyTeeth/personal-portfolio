@@ -1,3 +1,5 @@
+import defaultTheme from 'tailwindcss/defaultTheme'
+
 function withOpacity(variableName) {
   return ({ opacityValue }) => {
     if (opacityValue !== undefined) {
@@ -43,6 +45,9 @@ export default {
           hue: withOpacity("--color-fill"),
         },
       },
+      fontFamily: {
+        sans: ['Quicksand Variable', ...defaultTheme.fontFamily.sans],
+      }
     },
   },
   variants: {

@@ -14,6 +14,9 @@ importers:
       '@astrojs/tailwind':
         specifier: ^5.1.0
         version: 5.1.0(astro@4.3.2(typescript@5.5.4))(tailwindcss@3.4.4)
+      '@fontsource-variable/quicksand':
+        specifier: ^5.0.18
+        version: 5.0.18
       astro:
         specifier: 4.3.2
         version: 4.3.2(typescript@5.5.4)
@@ -362,6 +365,9 @@ packages:
     engines: {node: '>=12'}
     cpu: [x64]
     os: [win32]
+
+  '@fontsource-variable/quicksand@5.0.18':
+    resolution: {integrity: sha512-avlweYmAdhqBt4GIm++G4bhlwejKy+1Rkv6wjesJM+K4z8SEid3b0RP1gZ/eneWhjTIVUhxS/SeMrdMaswQqWQ==}
 
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
@@ -2608,6 +2614,8 @@ snapshots:
 
   '@esbuild/win32-x64@0.19.12':
     optional: true
+
+  '@fontsource-variable/quicksand@5.0.18': {}
 
   '@isaacs/cliui@8.0.2':
     dependencies:
