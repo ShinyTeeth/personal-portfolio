@@ -2,12 +2,12 @@
   "basics": {
     "name": "Greg Goh",
     "label": "Full Stack Web Developer",
-    "image": "/me_avatar.jpg",
+    "image": "/avatar.jpg",
     "email": "gohliang@gmail.com",
     "phone": "+44 7474 270816",
-    "url": "https://greggoh.com",
+    "url": "https://greggoh.netlify.app/",
     "summary": "Full stack web developer and culture leader, experienced in financial and video game industries. Currently seeking opportunities that encourage collaboration and discovery. Malaysian citizen open to relocation, but will require work visa sponsorship.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "L2 2AA",
@@ -332,7 +332,7 @@
         "Built with Astro and Tailwind CSS",
         "Responsive design"
       ],
-      "url": "https://greggoh.com",
+      "url": "https://greggoh.netlify.app/",
       "github": "https://github.com/ShinyTeeth/personal-portfolio"
     }
   ]
