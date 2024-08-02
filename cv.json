@@ -154,20 +154,42 @@
   "certificates": [],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "Java",
+      "level": "Intermediate",
       "keywords": [
-        "Design",
+        "API Development",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
         "UI"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "Redux",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
@@ -188,36 +210,6 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
       "level": "Intermediate",
       "keywords": [
@@ -228,11 +220,31 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "No-SQL",
         "Data Storage",
         "Backend"
       ]
@@ -247,13 +259,32 @@
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Python",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        "API Development",
+        "Backend",
+        "Machine Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [
+        "API Development",
+        "Backend",
+        "Game Development"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
@@ -268,13 +299,13 @@
       ]
     },
     {
-      "name": "React",
-      "level": "Intermediate",
+      "name": "Tailwind",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Frontend",
-        "JavaScript Library",
-        "UI"
+        "CSS Framework",
+        "Responsive Design"
       ]
     }
   ],
