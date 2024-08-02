@@ -37,22 +37,27 @@
       "url": "https://sonyinteractive.com/en/",
       "startDate": "2023-03-27",
       "endDate": "2024-06-30",
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Took ownership of a newly launched internal web app as a React subject matter expert, enhancing it according to user feedback.",
       "highlights": [
-        "Improved website performance by optimizing code"
+        "Met with producers from studios in different regions to better understand their use cases, while also brainstorming features that would benefit them the most.",
+        "Developed new features according to users’ needs and requests, enabling them to integrate the app into their workflows and adapt a more standardised process.",
+        "Collaborated with the product owner and scrum master to prioritise features and bug fixes.",
+        "Optimised existing behaviour in the web app, resulting in a more efficient user experience. This included reducing the number of clicks needed to interact with the app.",
+        "Refactored multiple components and end-to-end features to reduce tech debt and to utilise the latest technologies and best practices."
       ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
+      "responsibilities": [],
+      "achievements": [],
       "skills": [
         "React",
-        "Tailwind",
-        "GitHub"
+        "Redux",
+        "Node",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "Jenkins"
       ]
     },
     {
@@ -63,23 +68,25 @@
       "url": "https://www.goldmansachs.com/",
       "startDate": "2022-01-24",
       "endDate": "2023-03-23",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "summary": "Led multiple agile teams through full stack development for various internal web apps.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        "Developed a customer onboarding experience by creating web pages using React and building new microservices using Java Vert.x and OpenAPI contract specifications.",
+        "Provided on-call support and incident management for live services impacting 500,000+ financial customers.",
+        "Ensured code quality through automated testing, code reviews, and implementing best practices for new projects and teams, improving productivity by 25%.",
+        "Managed and mentored separate groups of junior engineers and interns, encouraging them to express creative problem-solving while learning new skills."
       ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
+      "responsibilities": [],
+      "achievements": [],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "React",
+        "Redux",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "ReactiveX",
+        "Vert.x",
+        "Microsoft SQL Server",
+        "Gitlab"
       ]
     },
     {
@@ -90,23 +97,22 @@
       "url": "https://www.ayco.com/homepage.html",
       "startDate": "2019-02-25",
       "endDate": "2022-01-23",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "summary": "Assisted in uplifting a legacy app by developing a new web app to help financial advisors keep track of their clients' needs.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Collaborated with internal stakeholders to design a custom-fit solution that improved the user experience of internal systems, saving users’ time by 30%.",
+        "Collected feedback on the pain points of migrating between the legacy app and the new app, in order to further refine the integration into existing workflows.",
         "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
       ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
+      "responsibilities": [],
+      "achievements": [],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "React",
+        "JavaScript",
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "Microsoft SQL Server",
+        "Gitlab"
       ]
     },
     {
@@ -117,13 +123,20 @@
       "url": "https://www.mandiant.com/",
       "startDate": "2018-05-01",
       "endDate": "2018-08-31",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "summary": "Assisted in developing internal tools for cybersecurity specialists. Gained hands-on experience with the software development lifecycle.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Evaluated experimental Machine Learning and Natural Language Processing technology for their potential in boosting developer productivity.",
+        "Designed and implemented a chatbot to consolidate commonly used software development workflow actions into one place, improving the team’s efficiency by roughly 10%."
       ],
+      "responsibilities": [],
+      "achievements": [],
       "skills": [
-        "HTML",
-        "CSS"
+        "Python",
+        "Machine Learning",
+        "Keras",
+        "SciPy",
+        "NumPy",
+        "scikit-learn"
       ]
     }
   ],
