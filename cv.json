@@ -42,7 +42,7 @@
         "Met with producers from studios in different regions to better understand their use cases, while also brainstorming features that would benefit them the most.",
         "Developed new features according to users’ needs and requests, enabling them to integrate the app into their workflows and adapt a more standardised process.",
         "Collaborated with the product owner and scrum master to prioritise features and bug fixes.",
-        "Optimised existing behaviour in the web app, resulting in a more efficient user experience. This included reducing the number of clicks needed to interact with the app.",
+        "Optimised existing behaviour in the web app, resulting in a more efficient user experience. This includes reducing the number of clicks needed to interact with the app by 40%.",
         "Refactored multiple components and end-to-end features to reduce tech debt and to utilise the latest technologies and best practices."
       ],
       "responsibilities": [],
@@ -334,6 +334,37 @@
       ],
       "url": "https://greggoh.netlify.app/",
       "github": "https://github.com/ShinyTeeth/personal-portfolio"
+    },
+    {
+      "name": "Kudos Credits Tool",
+      "isActive": false,
+      "description": "A web app to help studios structure and arrange end credits for games.",
+      "highlights": [
+        "Built with React, Node, and PostgreSQL",
+        "Role-based authorization",
+        "Event-driven email notifications to help keep users updated on changes to their credits"
+      ]
+    },
+    {
+      "name": "Marcus UK",
+      "isActive": true,
+      "description": "The website for Marcus, Goldman Sachs's consumer banking product.",
+      "highlights": [
+        "Built with React, Java, and Microsoft SQL Server",
+        "Contributed to the onboarding experience for a new customer",
+        "Integrated multiple microservices, including external vendor APIs, to ensure a consistent user experience"
+      ],
+      "url": "https://www.marcus.co.uk/uk/en"
+    },
+    {
+      "name": "Ayco Financial Advisor Dashboard",
+      "isActive": false,
+      "description": "An internal web app designed to modernize and uplift a legacy application.",
+      "highlights": [
+        "Built with React, Java, and MongoDB",
+        "Enable admins and financial advisors to keep track of their team members and client assignments",
+        "Time-sensitive scheduling of to-dos to ensure compliance with financial services regulations"
+      ]
     }
   ]
 }
