@@ -5,8 +5,8 @@
     "image": "/avatar.jpg",
     "email": "gohliang@gmail.com",
     "phone": "+44 7474 270816",
-    "url": "https://greggoh.netlify.app/",
-    "summary": "Full stack web developer and culture leader, experienced in financial and video game industries. Well-versed in full-stack web dev and API design, able to learn new stacks quickly. Currently seeking opportunities that encourage collaboration and discovery. Malaysian citizen open to relocation, but will require work visa sponsorship. Let's chat!",
+    "url": "https://greggoh.com/",
+    "summary": "Full stack web developer and culture leader, experienced in financial and video game industries. Well-versed in full-stack web dev and API design, able to learn new stacks quickly. Interested in opportunities for collaboration and discovery. Malaysian citizen open to relocation, but will require work visa sponsorship. Let's chat!",
     "theme": "blue",
     "location": {
       "address": "",
@@ -29,6 +29,29 @@
     ]
   },
   "work": [
+    {
+      "name": "Sainsbury's",
+      "position": "Engineer",
+      "location_type": "Hybrid",
+      "location": "London, England",
+      "url": "https://www.sainsburys.co.uk/",
+      "startDate": "2024-11-11",
+      "summary": "Worked with a multidisciplinary team to uplift in-store apps that are used daily by store colleagues.",
+      "highlights": [],
+      "responsibilities": [],
+      "achievements": [],
+      "skills": [
+        "React",
+        "Redux",
+        "Node",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PostgreSQL",
+        "Git",
+        "Docker"
+      ]
+    },
     {
       "name": "Sony Interactive Entertainment Europe",
       "position": "Senior Tools Engineer",
