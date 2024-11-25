@@ -7,9 +7,9 @@ import { work } from "@cv"
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, highlights, url, skills, location, location_type }) => {
       const startYear = new Date(startDate).getFullYear()
-      const startMonth = new Date(startDate).toLocaleString("default", {month: "short"});
+      const startMonth = new Date(startDate).toLocaleString("default", {month: "short"})
       const endYear = endDate != null ? new Date(endDate).getFullYear() : "Present"
-      const endMonth = endYear === "Present" ? "" : new Date(endDate).toLocaleString("default", {month: "short"});
+      const endMonth = endDate != null ? new Date(endDate).toLocaleString("default", {month: "short"}) : ""
 
       return (
         <li class="relative print:py-2">
