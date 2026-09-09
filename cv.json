@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Greg Goh",
-    "label": "Full Stack Web Developer",
+    "label": "Senior Full Stack Software Engineer",
     "image": "/avatar.jpg",
     "email": "gohliang@gmail.com",
     "phone": "+44 7474 270816",
     "url": "https://greggoh.com/",
-    "summary": "Full stack web developer and culture leader, experienced in retail, financial services, and digital entertainment industries. Well-versed in full-stack web dev and API design, able to learn new stacks quickly. Interested in opportunities for collaboration and discovery. Malaysian citizen living in London on a Skilled Worker visa. Let's chat!",
+    "summary": "Full stack software engineer with 8 years of experience across general merchandise, financial services, and gaming industries. Expert at developing customer-facing products that operate at a nationwide scale. Primary expertise in TypeScript and React with a background in Java, but also able to learn new stacks quickly. Comfortable with AI-assisted tools throughout the software development lifecycle. Proven technical leadership by owning the delivery of different initiatives from ideation to production, while also owning the maintenance and post-launch enhancements. Interested in opportunities that empower creative problem-solving and mastery of new technologies. Will require sponsorship for a Skilled Worker visa.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -40,9 +40,15 @@
       "summary": "Worked with a multidisciplinary team to uplift in-store apps that are used daily by store colleagues.",
       "highlights": [
         "Led a team in a cross-functional initiative to introduce new capabilities in Argos stores, with the goal of optimising the customer experience.",
-        "Developed a NextJS app as part of the above initiative that allows customers to initiate a self-serve mission, simplifying their visit in the store.",
-        "Improved a colleague-facing NextJS app to enable colleagues to handle multiple types of in-store collections.",
-        "Worked closely with a Product Owner and UX Designer to iterate on the colleague and customer experience of using our apps, and build features that address user feedback."
+        "Developed multiple customer-facing NextJS apps, synchronized using event-driven architecture, allowing customers to initiate a self-serve mission and simplifying their visit in the store.",
+        "Took ownership of enhancing CI/CD workflows to automate and improve the developer experience, such as adding performance tests, feature flagging, and deploying apps to the cloud.",
+        "Embraced the usage of AI tools throughout the software development lifecycle, including the development, testing, code review, and delivery of a ticket entirely through AI agents.",
+        "Improved a colleague-facing NextJS app to enable colleagues to handle multiple types of in-store collections, with real-time updates using event-driven architecture.",
+        "Developed features in vertical slices across the full stack; from REST API endpoints on the backend, written in Java, to UI screens on the frontend, written in NextJS.",
+        "Implemented observability, logging, and business metrics in every feature, enabling visibility of how well our app is performing, and allowing for streamlined troubleshooting.",
+        "Reduced UI load times by 50% (50s → 25s) through systematic performance profiling, bottleneck identification, and code optimisation, enhancing overall user experience.",
+        "Worked closely with a Product Owner and UX Designer to iterate on the colleague and customer experience of using our apps, and build features that address user feedback.",
+        "On-call support and hypercare whenever a new feature is launched to stores, ensuring stability and a seamless experience for colleagues and customers.",
       ],
       "responsibilities": [],
       "achievements": [],
